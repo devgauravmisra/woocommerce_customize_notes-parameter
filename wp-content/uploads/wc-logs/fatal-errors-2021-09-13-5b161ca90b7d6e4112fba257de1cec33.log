@@ -1,0 +1,74 @@
+2021-09-13T09:26:56+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /Applications/MAMP/htdocs/wp556/wp-includes/Requests/Transport/cURL.php on line 462
+
+2021-09-13T09:29:33+00:00 CRITICAL Uncaught Error: Class 'WC_Subscriptions_Cart' not found in /Applications/MAMP/htdocs/wp556/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php:134
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp556/wp-includes/class-wp-hook.php(303): WC_Razorpay_Subscription->disable_non_subscription(Array)
+#1 /Applications/MAMP/htdocs/wp556/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(163): apply_filters('woocommerce_ava...', Array)
+#3 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Features/OnboardingTasks.php(93): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Features/OnboardingTasks.php(151): Automattic\WooCommerce\Admin\Features\OnboardingTasks::get_settings()
+#5 /Applications/MAMP/htdocs/wp556/wp-includes/class-wp-hook in /Applications/MAMP/htdocs/wp556/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php on line 134
+
+2021-09-13T09:29:39+00:00 CRITICAL Uncaught Error: Class 'WC_Subscriptions_Cart' not found in /Applications/MAMP/htdocs/wp556/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php:134
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp556/wp-includes/class-wp-hook.php(303): WC_Razorpay_Subscription->disable_non_subscription(Array)
+#1 /Applications/MAMP/htdocs/wp556/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(163): apply_filters('woocommerce_ava...', Array)
+#3 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Features/OnboardingTasks.php(93): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Features/OnboardingTasks.php(151): Automattic\WooCommerce\Admin\Features\OnboardingTasks::get_settings()
+#5 /Applications/MAMP/htdocs/wp556/wp-includes/class-wp-hook in /Applications/MAMP/htdocs/wp556/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php on line 134
+
+2021-09-13T09:29:43+00:00 CRITICAL Uncaught Error: Class 'WC_Subscriptions_Cart' not found in /Applications/MAMP/htdocs/wp556/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php:134
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp556/wp-includes/class-wp-hook.php(303): WC_Razorpay_Subscription->disable_non_subscription(Array)
+#1 /Applications/MAMP/htdocs/wp556/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(163): apply_filters('woocommerce_ava...', Array)
+#3 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Features/OnboardingTasks.php(93): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Features/OnboardingTasks.php(151): Automattic\WooCommerce\Admin\Features\OnboardingTasks::get_settings()
+#5 /Applications/MAMP/htdocs/wp556/wp-includes/class-wp-hook in /Applications/MAMP/htdocs/wp556/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php on line 134
+
+2021-09-13T09:33:04+00:00 CRITICAL Uncaught Error: Class 'WC_Subscriptions_Cart' not found in /Applications/MAMP/htdocs/wp556/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php:134
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp556/wp-includes/class-wp-hook.php(303): WC_Razorpay_Subscription->disable_non_subscription(Array)
+#1 /Applications/MAMP/htdocs/wp556/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(163): apply_filters('woocommerce_ava...', Array)
+#3 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Features/OnboardingTasks.php(93): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Features/OnboardingTasks.php(151): Automattic\WooCommerce\Admin\Features\OnboardingTasks::get_settings()
+#5 /Applications/MAMP/htdocs/wp556/wp-includes/class-wp-hook in /Applications/MAMP/htdocs/wp556/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php on line 134
+
+2021-09-13T09:33:08+00:00 CRITICAL Uncaught Error: Class 'WC_Subscriptions_Cart' not found in /Applications/MAMP/htdocs/wp556/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php:134
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp556/wp-includes/class-wp-hook.php(303): WC_Razorpay_Subscription->disable_non_subscription(Array)
+#1 /Applications/MAMP/htdocs/wp556/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(163): apply_filters('woocommerce_ava...', Array)
+#3 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Features/OnboardingTasks.php(93): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Features/OnboardingTasks.php(151): Automattic\WooCommerce\Admin\Features\OnboardingTasks::get_settings()
+#5 /Applications/MAMP/htdocs/wp556/wp-includes/class-wp-hook in /Applications/MAMP/htdocs/wp556/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php on line 134
+
+2021-09-13T09:33:08+00:00 CRITICAL Uncaught Error: Class 'WC_Subscriptions_Cart' not found in /Applications/MAMP/htdocs/wp556/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php:134
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp556/wp-includes/class-wp-hook.php(303): WC_Razorpay_Subscription->disable_non_subscription(Array)
+#1 /Applications/MAMP/htdocs/wp556/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(163): apply_filters('woocommerce_ava...', Array)
+#3 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Features/OnboardingTasks.php(93): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Features/OnboardingTasks.php(151): Automattic\WooCommerce\Admin\Features\OnboardingTasks::get_settings()
+#5 /Applications/MAMP/htdocs/wp556/wp-includes/class-wp-hook in /Applications/MAMP/htdocs/wp556/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php on line 134
+
+2021-09-13T09:38:43+00:00 CRITICAL Uncaught Error: Class 'WC_Subscriptions_Cart' not found in /Applications/MAMP/htdocs/wp556/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php:134
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp556/wp-includes/class-wp-hook.php(303): WC_Razorpay_Subscription->disable_non_subscription(Array)
+#1 /Applications/MAMP/htdocs/wp556/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(163): apply_filters('woocommerce_ava...', Array)
+#3 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Features/OnboardingTasks.php(93): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Features/OnboardingTasks.php(151): Automattic\WooCommerce\Admin\Features\OnboardingTasks::get_settings()
+#5 /Applications/MAMP/htdocs/wp556/wp-includes/class-wp-hook in /Applications/MAMP/htdocs/wp556/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php on line 134
+
+2021-09-13T09:39:02+00:00 CRITICAL Uncaught Error: Class 'WC_Subscriptions_Cart' not found in /Applications/MAMP/htdocs/wp556/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php:134
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp556/wp-includes/class-wp-hook.php(303): WC_Razorpay_Subscription->disable_non_subscription(Array)
+#1 /Applications/MAMP/htdocs/wp556/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woocommerce/includes/class-wc-payment-gateways.php(163): apply_filters('woocommerce_ava...', Array)
+#3 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Features/OnboardingTasks.php(93): WC_Payment_Gateways->get_available_payment_gateways()
+#4 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Features/OnboardingTasks.php(151): Automattic\WooCommerce\Admin\Features\OnboardingTasks::get_settings()
+#5 /Applications/MAMP/htdocs/wp556/wp-includes/class-wp-hook in /Applications/MAMP/htdocs/wp556/wp-content/plugins/razorpay-subscriptions-for-woocommerce/razorpay-subscriptions.php on line 134
+

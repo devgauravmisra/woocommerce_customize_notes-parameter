@@ -1,0 +1,117 @@
+2021-09-23T07:02:06+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WC_Razorpay::getCustomerInfo(), 0 passed in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php on line 575 and exactly 1 expected in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php:634
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(575): WC_Razorpay->getCustomerInfo()
+#1 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(623): WC_Razorpay->getDefaultCheckoutArguments(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#2 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(556): WC_Razorpay->getCheckoutArguments(Object(Automattic\WooCommerce\Admin\Overrides\Order), Array)
+#3 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(431): WC_Razorpay->generate_razorpay_form(20)
+#4 /Applications/MAMP/htdocs/wp556/wp-includes/class-wp-hook.php(303): WC_Razorpay- in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php on line 634
+
+2021-09-23T07:09:41+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WC_Razorpay::getCustomerInfo(), 0 passed in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php on line 575 and exactly 1 expected in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php:634
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(575): WC_Razorpay->getCustomerInfo()
+#1 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(623): WC_Razorpay->getDefaultCheckoutArguments(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#2 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(556): WC_Razorpay->getCheckoutArguments(Object(Automattic\WooCommerce\Admin\Overrides\Order), Array)
+#3 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(431): WC_Razorpay->generate_razorpay_form(20)
+#4 /Applications/MAMP/htdocs/wp556/wp-includes/class-wp-hook.php(303): WC_Razorpay- in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php on line 634
+
+2021-09-23T07:10:19+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WC_Razorpay::getCustomerInfo(), 0 passed in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php on line 575 and exactly 1 expected in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php:634
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(575): WC_Razorpay->getCustomerInfo()
+#1 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(623): WC_Razorpay->getDefaultCheckoutArguments(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#2 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(556): WC_Razorpay->getCheckoutArguments(Object(Automattic\WooCommerce\Admin\Overrides\Order), Array)
+#3 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(431): WC_Razorpay->generate_razorpay_form(21)
+#4 /Applications/MAMP/htdocs/wp556/wp-includes/class-wp-hook.php(303): WC_Razorpay- in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php on line 634
+
+2021-09-23T07:11:49+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WC_Razorpay::getCustomerInfo(), 0 passed in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php on line 575 and exactly 1 expected in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php:634
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(575): WC_Razorpay->getCustomerInfo()
+#1 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(623): WC_Razorpay->getDefaultCheckoutArguments(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#2 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(556): WC_Razorpay->getCheckoutArguments(Object(Automattic\WooCommerce\Admin\Overrides\Order), Array)
+#3 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(431): WC_Razorpay->generate_razorpay_form(22)
+#4 /Applications/MAMP/htdocs/wp556/wp-includes/class-wp-hook.php(303): WC_Razorpay- in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php on line 634
+
+2021-09-23T07:13:50+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WC_Razorpay::getCustomerInfo(), 0 passed in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php on line 575 and exactly 1 expected in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php:634
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(575): WC_Razorpay->getCustomerInfo()
+#1 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(623): WC_Razorpay->getDefaultCheckoutArguments(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#2 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(556): WC_Razorpay->getCheckoutArguments(Object(Automattic\WooCommerce\Admin\Overrides\Order), Array)
+#3 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(431): WC_Razorpay->generate_razorpay_form(23)
+#4 /Applications/MAMP/htdocs/wp556/wp-includes/class-wp-hook.php(303): WC_Razorpay- in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php on line 634
+
+2021-09-23T07:14:49+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WC_Razorpay::getCustomerInfo(), 0 passed in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php on line 575 and exactly 1 expected in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php:634
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(575): WC_Razorpay->getCustomerInfo()
+#1 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(623): WC_Razorpay->getDefaultCheckoutArguments(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#2 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(556): WC_Razorpay->getCheckoutArguments(Object(Automattic\WooCommerce\Admin\Overrides\Order), Array)
+#3 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(431): WC_Razorpay->generate_razorpay_form(23)
+#4 /Applications/MAMP/htdocs/wp556/wp-includes/class-wp-hook.php(303): WC_Razorpay- in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php on line 634
+
+2021-09-23T07:17:19+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WC_Razorpay::getCustomerInfo(), 0 passed in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php on line 575 and exactly 1 expected in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php:634
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(575): WC_Razorpay->getCustomerInfo()
+#1 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(623): WC_Razorpay->getDefaultCheckoutArguments(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#2 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(556): WC_Razorpay->getCheckoutArguments(Object(Automattic\WooCommerce\Admin\Overrides\Order), Array)
+#3 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(431): WC_Razorpay->generate_razorpay_form(24)
+#4 /Applications/MAMP/htdocs/wp556/wp-includes/class-wp-hook.php(303): WC_Razorpay- in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php on line 634
+
+2021-09-23T07:20:23+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WC_Razorpay::getCustomerInfo(), 0 passed in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php on line 575 and exactly 1 expected in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php:634
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(575): WC_Razorpay->getCustomerInfo()
+#1 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(623): WC_Razorpay->getDefaultCheckoutArguments(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#2 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(556): WC_Razorpay->getCheckoutArguments(Object(Automattic\WooCommerce\Admin\Overrides\Order), Array)
+#3 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(431): WC_Razorpay->generate_razorpay_form(28)
+#4 /Applications/MAMP/htdocs/wp556/wp-includes/class-wp-hook.php(303): WC_Razorpay- in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php on line 634
+
+2021-09-23T07:21:45+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WC_Razorpay::getCustomerInfo(), 0 passed in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php on line 574 and exactly 1 expected in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php:635
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(574): WC_Razorpay->getCustomerInfo()
+#1 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(624): WC_Razorpay->getDefaultCheckoutArguments(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#2 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(556): WC_Razorpay->getCheckoutArguments(Object(Automattic\WooCommerce\Admin\Overrides\Order), Array)
+#3 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(431): WC_Razorpay->generate_razorpay_form(28)
+#4 /Applications/MAMP/htdocs/wp556/wp-includes/class-wp-hook.php(303): WC_Razorpay- in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php on line 635
+
+2021-09-23T08:31:07+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Overrides\Order::get_billing_address() in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php:642
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(596): WC_Razorpay->getCustomerInfo(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(624): WC_Razorpay->getDefaultCheckoutArguments(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#2 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(556): WC_Razorpay->getCheckoutArguments(Object(Automattic\WooCommerce\Admin\Overrides\Order), Array)
+#3 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(431): WC_Razorpay->generate_razorpay_form(29)
+#4 /Applications/MAMP/htdocs/wp556/wp-includes/class-wp-hook.php(303): WC_Razorpay->receipt_page(29)
+#5 /Applications/MAMP/htdocs/wp556/wp-in in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php on line 642
+
+2021-09-23T08:36:21+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Overrides\Order::get_billing_address() in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php:642
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(596): WC_Razorpay->getCustomerInfo(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(624): WC_Razorpay->getDefaultCheckoutArguments(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#2 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(556): WC_Razorpay->getCheckoutArguments(Object(Automattic\WooCommerce\Admin\Overrides\Order), Array)
+#3 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(431): WC_Razorpay->generate_razorpay_form(29)
+#4 /Applications/MAMP/htdocs/wp556/wp-includes/class-wp-hook.php(303): WC_Razorpay->receipt_page(29)
+#5 /Applications/MAMP/htdocs/wp556/wp-in in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php on line 642
+
+2021-09-23T08:38:56+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Overrides\Order::billing_address_1() in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php:642
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(596): WC_Razorpay->getCustomerInfo(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(624): WC_Razorpay->getDefaultCheckoutArguments(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#2 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(556): WC_Razorpay->getCheckoutArguments(Object(Automattic\WooCommerce\Admin\Overrides\Order), Array)
+#3 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(431): WC_Razorpay->generate_razorpay_form(29)
+#4 /Applications/MAMP/htdocs/wp556/wp-includes/class-wp-hook.php(303): WC_Razorpay->receipt_page(29)
+#5 /Applications/MAMP/htdocs/wp556/wp-incl in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php on line 642
+
+2021-09-23T08:39:11+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Overrides\Order::billing_address() in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php:642
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(596): WC_Razorpay->getCustomerInfo(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(624): WC_Razorpay->getDefaultCheckoutArguments(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#2 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(556): WC_Razorpay->getCheckoutArguments(Object(Automattic\WooCommerce\Admin\Overrides\Order), Array)
+#3 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(431): WC_Razorpay->generate_razorpay_form(29)
+#4 /Applications/MAMP/htdocs/wp556/wp-includes/class-wp-hook.php(303): WC_Razorpay->receipt_page(29)
+#5 /Applications/MAMP/htdocs/wp556/wp-includ in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php on line 642
+
+2021-09-23T08:39:17+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Overrides\Order::billing_address() in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php:642
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(596): WC_Razorpay->getCustomerInfo(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#1 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(624): WC_Razorpay->getDefaultCheckoutArguments(Object(Automattic\WooCommerce\Admin\Overrides\Order))
+#2 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(556): WC_Razorpay->getCheckoutArguments(Object(Automattic\WooCommerce\Admin\Overrides\Order), Array)
+#3 /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php(431): WC_Razorpay->generate_razorpay_form(29)
+#4 /Applications/MAMP/htdocs/wp556/wp-includes/class-wp-hook.php(303): WC_Razorpay->receipt_page(29)
+#5 /Applications/MAMP/htdocs/wp556/wp-includ in /Applications/MAMP/htdocs/wp556/wp-content/plugins/woo-razorpay/woo-razorpay.php on line 642
+
